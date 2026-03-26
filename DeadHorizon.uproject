@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.4",
+	"Category": "",
+	"Description": "Dead Horizon - A survival horror game",
+	"Modules": [
+		{
+			"Name": "DeadHorizon",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"CoreUObject"
+			]
+		}
+	]
+}
