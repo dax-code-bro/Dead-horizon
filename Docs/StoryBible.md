@@ -41,14 +41,15 @@ Led by Joseph Walkns. Members refer to each other as family — Joseph calls the
 - **Personality:** Tough despite his age — still tosses gang members around if they get in his way. Easy to earn his respect. Tries to get Marcus back on his feet.
 
 ### Marcus McAllen
-- **Age:** Early 20s (born ~1996-1999)
+- **Age:** 26 (born ~1993)
 - **Background:** Jeremiah's brother in arms. Had his son Josh at age 20. The pressure caused him to run away. Was found and brought back to the gang.
 - **Personality:** Distant from his family. Keeps distance from Emily. Jealous of Jeremiah's closeness to Emily and Josh. Has paranoia that Emily is having an affair (she isn't). Tells Jeremiah he might as well marry Emily. Extreme doubts that his family loves him.
 - **Arc:** Slowly reconnects with Emily across chapters. Relationship improves over time but struggles with trust issues with his 5-year-old son Josh. Marcus pretends not to care about Emily, but his mask slips — he shoves gang members who try to mess with her.
 - **Horse:** Jim
 
 ### Emily McAllen
-- **Background:** Marcus's partner. When Marcus ran away, she was mentally broken. In the past, she had relationships with multiple gang members who offered food and care for Josh in exchange — she never loved any of them, did it purely for her son's survival. Since Marcus's return, she is strictly loyal to him. She loved Marcus at first sight and has never wanted anyone else.
+- **Age:** 20-24 during the game (2019). Was 16-18 during the worst period of her life.
+- **Background:** Marcus's partner. Had Josh as a teenager (~16-17). When Marcus ran away, she was mentally broken — a teenager alone with a baby. Had relationships with multiple gang members who offered food and care for Josh in exchange — she never loved any of them, did it purely for her son's survival. Since Marcus's return, she is strictly loyal to him. She loved Marcus at first sight and has never wanted anyone else.
 - **Personality:** Similar to Abigail from Red Dead Redemption 2 but her own character. Was highly capable and not afraid to get dirty before having Josh. Stepped back to become a mother. Now actively trying to get Marcus to spend time with her and Josh.
 - **Key detail:** Shuts down any gang members who try the old tricks on her. Also shuts down Clark when he brings up her past.
 
@@ -94,10 +95,11 @@ Led by Joseph Walkns. Members refer to each other as family — Joseph calls the
 ---
 
 ## Horses
-- **Cerberus** — Jeremiah's horse
-- **Snow** — Joseph's horse
-- **Jim** — Marcus's horse
-- **Gunpowder** — Clark's horse
+- **Cerberus** — Jeremiah's horse. Thoroughbred. Black front (pitch black hair and skin), white back (snow white hair and skin). Striking two-tone.
+- **Snow** — Joseph's horse. Albino Mustang. All white.
+- **Jim** — Marcus's horse. Belgian Draft. Golden body, white neck, white spots/patches, white mane, shaggy forelock hanging over eyes. Big, gentle, dependable.
+- **Gunpowder** — Clark's horse. Akhal-Teke. Fully black with metallic sheen.
+- **Lenny's horse** — Fully black Morgan. (Name TBD)
 
 ---
 
@@ -143,9 +145,52 @@ Led by Joseph Walkns. Members refer to each other as family — Joseph calls the
 3. **Fine, We'll Get Him Back** — Rescue Marcus from Washington gang town
 4. **A New, Better Place** — Gang relocates to the Gorge
 
-### Chapter 2: TBD
+### Chapter 2: Missions (A Few Months Later)
+1. **Settling In, the McAllens** — Marcus/Emily fight, Beretta 92FS purchase, bar night, Marcus fishes with Josh
+2. **Weapon Buy / Saloon Trap** — AK-47 bulk buy, lawman ambush, Joseph's plan abandoned, Joseph's sanity cracks
+3. **Hunting Trip** — Elk hunt with Trevor and Lenny, bear attack, Lenny injured
+4. **The Hope Robbery** — General store heist, shootout, $3,000 score, Snow shot in leg
+5. **Supply Run** — Restocking camp, Washington gang spreading into territory
+6. **Washington Outpost Assault** — 19 vs 300, total victory, zero casualties, looted weapons
+7. **The Evacuation** — Marshalls incoming, 30-minute evacuation, Marcus/Emily breakthrough, arrive at the Hill
+
+### Chapter 3: TBD (Major shift in Marcus's family arc)
 
 ---
+
+## Locations
+
+### Camp 3: The Hill (Chapter 2 Ending onward)
+- Small clearing on a hilltop overlooking a valley.
+- Elevated position with long sightlines in all directions.
+- Open instead of enclosed — contrast to the Gorge.
+
+## Antagonists (5 Total across the game)
+1. **Michael Washington** — Washington gang leader. 10 sub-gangs. Throws men at problems.
+2. **The Old Lawman** — Recurring threat. Badge-carrying officer, 70s. Has the gang's bounties.
+3. TBD
+4. TBD
+5. TBD (revealed clearly by Chapter 8)
+
+## Protagonists
+1. **Jeremiah Field** — Primary protagonist
+2. **Marcus McAllen** — Second protagonist (takes over at some point)
+
+## Game Structure
+- **10-20 chapters** (TBD final count)
+- **~100 hours** of gameplay
+- **2 playable protagonists**
+- **5 main antagonists**
+- **Slow burn Chapters 1-4** — character building, camp life, small jobs
+- **Chapter 5 onward** — pace picks up, bigger heists and conflicts
+
+---
+
+## Gang Size
+- **19 men** (including named characters)
+- **11 women** (including named characters)
+- **1 child** (Josh McAllen, age 5)
+- **Total: 31**
 
 ## Game Systems
 - **Checkpoint system** — On failure, player returns to last checkpoint
@@ -153,3 +198,5 @@ Led by Joseph Walkns. Members refer to each other as family — Joseph calls the
 - **Optional camp interactions** — Talk to gang members between missions for extra story/dialogue
 - **Horse riding** — Core traversal mechanic
 - **Transport mechanic** — Hauling cargo behind horses with speed/turn management
+- **Performance-based pay** — Better play = bigger share of scores
+- **Weapon unlock progression** — New weapons available as chapters/missions are completed
