@@ -167,8 +167,8 @@ Led by Joseph Walkns. Members refer to each other as family — Joseph calls the
 
 ## Antagonists (5 Total across the game)
 1. **Michael Washington** — Washington gang leader. 10 sub-gangs. Throws men at problems.
-2. **The Old Lawman** — Recurring threat. Badge-carrying officer, 70s. Has the gang's bounties.
-3. TBD
+2. **The Watersons** — Innocent family turned antagonist. 500,000 acres, Waterson's Stabling Co., 50,234+ guards. Mother controls most of it, father, 7 sons. Became enemies when Joseph stole their horses.
+3. **The Old Lawman** — Recurring threat. Badge-carrying officer, 70s. Has the gang's bounties.
 4. TBD
 5. TBD (revealed clearly by Chapter 8)
 
