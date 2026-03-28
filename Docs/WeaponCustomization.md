@@ -97,11 +97,31 @@
   - Compact, concealed hammer design
   - Snub nose barrel
 - **The only gun in the game with engraved grips** — makes it instantly recognizable
-- **Stats:** TBD — potentially highest damage handgun in the game
+- **Special Perk:** Chance to gain money whenever you shoot it. Violence pays.
+- **Stats:** Highest damage handgun in the game
 
-### High Honor Equivalent: TBD
-- Unlock at Honor Level 7 or 8
-- Design TBD
+### "The Angel's Grace" — 1911 .45 ACP (High Honor Variant)
+- **Unlock:** Honor Level 7 (high honor)
+- **Based on:** 1911 .45 ACP
+- **Appearance:**
+  - Pure white frame — marble-like appearance
+  - Diamond engravings covering the entire gun — gives it a veined marble look
+  - Pure diamond grip WITH engravings (unique — only honor weapons have engraved grips)
+  - Classic 1911 profile
+- **Special Perk:** Chance to gain bonus ammo whenever you shoot it. Generosity gives back.
+- **Stats:** Strong .45 ACP stopping power with ammo sustainability
+
+### Honor Weapon Comparison
+| | The Devil's Hand | The Angel's Grace |
+|---|---|---|
+| **Honor** | Level 1 (lowest) | Level 7 (high) |
+| **Gun** | .500 S&W Magnum snub nose | 1911 .45 ACP |
+| **Color** | Pitch black | Pure white/marble |
+| **Engravings** | Gold skulls | Diamond/marble veins |
+| **Grip** | Black and red with engravings | Pure diamond with engravings |
+| **Perk** | Chance to gain money on shots | Chance to gain ammo on shots |
+| **Vibe** | Hell | Heaven |
+| **Unique trait** | Both are the only guns with engraved grips — impossible on any other weapon |
 
 ---
 
