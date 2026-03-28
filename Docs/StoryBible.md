@@ -154,7 +154,22 @@ Led by Joseph Walkns. Members refer to each other as family — Joseph calls the
 6. **Washington Outpost Assault** — 19 vs 300, total victory, zero casualties, looted weapons
 7. **The Evacuation** — Marshalls incoming, 30-minute evacuation, Marcus/Emily breakthrough, arrive at the Hill
 
-### Chapter 3: TBD (Major shift in Marcus's family arc)
+### Chapter 3: Missions
+1. **The One Thing We Have in Common** — Waterson horse theft, Barry killed, stealth mission
+2. **Just Counter Measures** — Scouting with Marcus, Jeremiah reveals family, waterfall cave found
+3. **Helping with a Few Things** — Chores with Emily, Josh runs to Marcus (major shift)
+4. **He's At It Again** — Trolley robbery, $250K, Joseph's brain damage, Marcus injured
+5. **Bank Robbery** — Lenny killed by old lawman, militia chase, battle at Hill camp
+6. **Waterfall Arrival** — Evacuation to waterfall cave, Marcus sees Immortal strategy
+
+### Chapter 4: Missions (Las York)
+1. **Hunting Trip** — Comedy mission with Trevor, .50 cal raccoon
+2. **Goodbye Old Friend** — Michael Washington executed by firing squad
+3. **Catching Up with an Old Mentor Again** — Joseph/Jeremiah day in Las York
+4. **Waterson Ranch Raid** — Entire Waterson family killed, all 9 members
+5. **Turns Out Scouting Pays Off** — Clark leads gang into ambush, Josh grazed
+
+### Chapter 5: TBD (Several months later — pace picks up)
 
 ---
 
