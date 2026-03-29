@@ -7,25 +7,28 @@
 
 ---
 
-## Regions (5)
+## Regions (6)
 
 | Region | Name | Biome | Notes |
 |--------|------|-------|-------|
 | **Mountains** | The Mount Everest Range | Snow-capped peaks, blizzards, jagged mountains | Multiple peaks resembling smaller versions of Everest. Chapter 1 location. Cold, isolated, survival. |
 | **Grasslands** | The Great Watson Plains | Open plains, rolling grass, ranching territory | Named after the Waterson family — they owned so much land the region took their name. Even after the family is dead, their ghost is on the map. Chapters 2-3 location. |
 | **Forest** | The Great Pinewood Forest | Dense pine forest, dark canopy, rivers, waterfalls | Where the waterfall cave is hidden. The gang's most concealed camp. Chapters 3-5 location. |
+| **Swamp** | The Mire | Murky swampland, cypress trees, hanging moss, perpetual fog | Between the Great Pinewood Forest and the Sandy Dunes. Dark water, snakes everywhere. Horses slow down and get nervous. Hard to navigate. The kind of place people avoid. |
 | **Redwood** | Redwood | Towering redwood trees, red bark, dark forest floor, misty | Massive trees blocking sunlight. Sound gets swallowed. Clark's territory in 2026. Epilogue location. Marcus only during epilogue. |
 | **Desert** | The Sandy Dunes | Arid, dusty, dry heat, sparse vegetation | Near the Redwood region. **Jeremiah CANNOT enter this region** — reason TBD. Opens for Marcus in the epilogue. |
 
 ---
 
-## Towns & Cities (7)
+## Towns & Cities (9)
 
 | Town/City | Region | Type | Description |
 |-----------|--------|------|-------------|
 | **Hope** | Great Watson Plains | Small town | General store, saloon, gunsmith. Where the gang robbed the general store. Small — word travels fast. Chapter 2 base town. |
 | **Green Willow** | Great Watson Plains | Town | Near the Gorge. Chapter 3 base town. |
+| **Miller's Crossing** | Great Watson Plains | Small farming settlement | A crossroads town between Hope and Las York. General store, church, a few farms. Quiet. Everyone knows everyone. Named after whoever built the bridge that put it on the map. |
 | **Las York** | Great Watson Plains (edge) | Big city | The largest city in the game. Massive — tall buildings, crowded streets, markets, saloons, restaurants. Mix of modern rebuilding and riot damage. Named as a combination of Los Angeles and New York. Chapter 4+ base city. |
+| **Timberfall** | Great Pinewood Forest | Small logging town | Deep in the forest. Built around a sawmill. Workers, lumberjacks, cheap saloon. The smell of fresh cut pine everywhere. Rough, practical people who don't ask questions. |
 | **Frost** | Mount Everest Range | High-class city | Rich, cold, elegant. Where the wealthy retreated during the riots. Fancy buildings, expensive shops, well-dressed people. Outsiders stick out. Expensive guns, high-end horses, big money. |
 | **Renovates** | Northeast (near mountains) | Dirty/poor town | The dirtiest, poorest town. Barely any law officers. Anything goes. Outlaws feel at home. Honest people don't stay long. |
 | **Nothing** | Sandy Dunes | Lawless desert town | Literally has no real name. Lawless. No law, no rules, no name. People who don't belong anywhere else end up here. **Jeremiah cannot visit** (Sandy Dunes restriction). Marcus can visit in epilogue. |
@@ -48,15 +51,15 @@
 - **No law:** Nothing
 
 ### Mini-Games Available:
-- **Civilized towns** (Frost, Waterson's Emporium, Las York): Poker, chess, dominoes, blackjack
-- **Dirty towns** (Hope, Renovates, Nothing): Five finger fillet, knife throwing, bare knuckle fighting, liar's dice
+- **Civilized towns** (Frost, Waterson's Emporium, Las York, Miller's Crossing): Poker, chess, dominoes, blackjack
+- **Dirty towns** (Hope, Renovates, Nothing, Timberfall): Five finger fillet, knife throwing, bare knuckle fighting, liar's dice
 - **Green Willow:** Mix of both
 
 ### Store Prices (Affected by Honor System):
 - **Frost/Waterson's Emporium:** Most expensive base prices
 - **Las York:** Standard prices
-- **Hope/Green Willow:** Slightly cheaper
-- **Renovates:** Cheapest legitimate prices
+- **Hope/Green Willow/Miller's Crossing:** Slightly cheaper
+- **Timberfall/Renovates:** Cheapest legitimate prices
 - **Nothing:** Black market prices — cheap but illegal goods available
 
 ---
