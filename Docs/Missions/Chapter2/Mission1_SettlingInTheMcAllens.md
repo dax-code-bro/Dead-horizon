@@ -106,15 +106,25 @@
 
 - Marcus makes a drunken apology to Emily. She sends them both to bed.
 
-### Section 5: The Morning After — Marcus Steps Up
-- Morning. Emily walks over to Jeremiah, asks him to take Josh out.
-- Marcus stands up:
+### Section 5: The Morning After — Nothing Changes
+- Morning. Marcus wakes up hungover. He doesn't mention the apology. Acts like it never happened.
+- Emily walks over to Jeremiah, asks him to take Josh out. She doesn't even look at Marcus.
+- Marcus sits there. Watches Jeremiah take his son. Doesn't say a word. Doesn't volunteer.
+- Later, Marcus passes Emily in camp. She tries to make eye contact. He looks away.
 
-**Marcus:** "I... I could take him."
+**Emily:** "You said things last night."
 
-- Dead silence. Emily is stunned. Jeremiah smiles.
-- Emily lets Josh go with Marcus.
-- Marcus takes Josh fishing — awkward but he's trying.
+**Marcus:** "I was drunk."
+
+**Emily:** "You said you were sorry."
+
+**Marcus:** "I said a lot of things. I was drunk."
+
+**Emily:** "So none of it was real."
+
+**Marcus:** "I don't remember half of it. Drop it, Emily."
+
+*She watches him walk away. Whatever door opened last night just slammed shut.*
 
 ### Mission Complete
 
@@ -124,12 +134,14 @@
 - Marcus and Emily's worst fight yet — he questions if Josh is his, tells her to run off with Jeremiah
 - Emily slaps Marcus
 - Marcus buys the Beretta 92FS Bronze
-- First time Marcus volunteers to spend time with Josh
-- Marcus's relationship still near rock bottom but the first crack of light appears
-- Marcus and Jeremiah's bond strengthened through the bar scene
+- The drunken apology means NOTHING — Marcus takes it back the next morning
+- Marcus does NOT volunteer for Josh — Jeremiah takes him as usual
+- The relationship is still completely broken
+- Marcus and Jeremiah's bond strengthened through the bar scene but Marcus's walls are back up by morning
 
 ## Marcus Family Arc Progress
 - **Chapter 1:** Completely distant
-- **Chapter 2:** Small shift (this mission — volunteers for Josh, drunken apology)
-- **Chapter 3:** Major shift (TBD)
-- **Chapter 5:** Basically perfect family
+- **Chapter 2:** Still broken. Drunken apology retracted. Walls back up. No progress with Josh.
+- **Chapter 3:** Still broken. Small cracks but Marcus keeps pulling back.
+- **Chapter 4:** The REAL shift. Everything changes here.
+- **Chapter 5:** Nearly perfect family

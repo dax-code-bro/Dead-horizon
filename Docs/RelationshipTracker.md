@@ -110,19 +110,19 @@
 ### Marcus ↔ Emily
 | Chapter | Rating | Notes |
 |---------|--------|-------|
-| 1 | 2 | Won't look at her. Denies the relationship. |
-| 2 | 3 | Worst fight (Josh isn't mine). But drunken apology. Hand on wagon. |
-| 3 | 5 | Turning point. Still fighting but growing. Apologized to Josh when he cried. |
-| 4 | 7 | Party night. "My family." Invites her into his tent. |
+| 1 | 1 | Won't look at her. Denies the relationship. Tells Josh to go back to mama. |
+| 2 | 2 | Worst fight (Josh isn't mine). Drunken apology means nothing — he takes it back the next morning. Hand almost touches on wagon — he pulls away. Still broken. |
+| 3 | 2 | Still broken. Marcus walks past Josh. Sits with head in hands knowing he's failing. Emily losing hope. No real progress. |
+| 4 | 6 | **THE REAL SHIFT.** Party night. "My family." Invites her into his tent. Everything changes HERE. |
 | 5 | 9 | Nearly perfect. Inseparable. Real family unit. |
 
 ### Marcus ↔ Josh
 | Chapter | Rating | Notes |
 |---------|--------|-------|
 | 1 | 1 | Doesn't acknowledge his son. "Go on back to your mama." |
-| 2 | 2 | Fished once. Awkward. Josh still prefers Uncle Jerry. |
-| 3 | 4 | Josh runs to Marcus instead of Jerry. Sword fights. Improving. |
-| 4 | 7 | Josh in his tent. "I love you daddy" for the first time. |
+| 2 | 1 | No fishing trip. No volunteering. Marcus watches Jeremiah take Josh and says nothing. |
+| 3 | 2 | Josh takes a few steps toward Marcus but stops. Marcus walks past him. Josh goes back to Jeremiah. The crack is there but Marcus pulls back. |
+| 4 | 7 | Josh in his tent. "I love you daddy" for the first time. Everything unlocks. |
 | 5 | 8 | Josh shows him everything. Proud his scar makes him "look like daddy." |
 
 ### Marcus ↔ Joseph

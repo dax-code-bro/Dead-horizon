@@ -41,29 +41,28 @@
 - Emily: "Now I need it to be you."
 - **Marcus takes Emily's hand. Fully. Not halfway.** Emily leans her head on his shoulder. He rests his cheek on her head.
 
-**Emily:** "Don't let go."
+*Marcus's hand shifts slightly on the bed of the wagon — barely touching Emily's. She looks down at it. For a second, neither moves.*
 
-**Marcus:** "I'm not going anywhere."
+*Then Marcus pulls his hand away. Goes back to staring at the road.*
 
-*(Full dialogue in mission file.)*
+**Emily:** *(quietly)* "...Marcus."
 
-### Section 4: Josh Sees Them
+**Marcus:** "Don't."
+
+*The moment is gone. Emily looks away. The wagon keeps rolling.*
+
+### Section 4: Josh Tries
 - Jeremiah rides up on Cerberus with Josh.
-- Josh sees his parents holding hands.
+- Josh looks over at the wagon. Sees his parents sitting apart. Not talking.
 
-**Josh:** "...Are you holding daddy's hand?"
+**Josh:** "Mama, can I come in the wagon?"
 
-**Marcus:** "Yeah. She is."
-
-**Josh:** "Can I come?"
-
-**Marcus:** "...Get over here."
+**Emily:** "Come on, baby."
 
 - Jeremiah lifts Josh into the wagon. Josh sits between them.
-- Emily puts her arm around Josh. Marcus puts his hand on Josh's head — awkward, stiff, but there.
-- Josh leans into Marcus.
-- Emily is crying — the good kind.
-- Jeremiah watches, gives a small nod, and rides ahead.
+- Josh reaches for Marcus's hand. Marcus lets him hold it for a second — then gently pulls away and puts his hand on the side of the wagon.
+- Josh looks confused. Leans into Emily instead.
+- Jeremiah watches from Cerberus. No nod this time. Just concern.
 
 ### Section 5: Arrival
 - The gang arrives at their new home: a **small clearing on a hill overlooking a valley**.

@@ -29,31 +29,62 @@
 - Mainly worried about Marcus — not that he'll run, but that he'll die
 - "What if he gets killed right when he's figuring out how to be a father?"
 
-### Section 3: Jeremiah Shares Good News
-- Tells Emily about Marcus's sword fight with Josh — first time Josh really laughed with him
-- Tells her Marcus said Josh should ride with him instead of Jeremiah
-- Emily is moved but keeps it together
+### Section 3: Jeremiah Tries to Share Good News
+- Jeremiah tells Emily that Marcus has been slightly less cold — but he's reaching.
+- There was no sword fight. No breakthrough. Just Marcus occasionally not walking away when Josh talks to him.
+- Emily appreciates Jeremiah trying but she's not buying it.
+
+**Emily:** "He looked at Josh yesterday. Actually looked at him. That's the best I've gotten in weeks."
+
+**Jeremiah:** "That's something."
+
+**Emily:** "It's not enough, Jerry. And you know it."
 
 ### Section 4: Jeremiah and Josh Play
 - Cutscene — sped up montage of Jeremiah and Josh playing around camp
 - Stick swords, chasing, Jeremiah pretending to fall
+- Josh is laughing. With Uncle Jerry. Not his dad.
 
-### Section 5: Marcus Arrives — The Major Shift
+### Section 5: Marcus Arrives — A Crack, Not a Shift
 - Marcus rides in on Jim.
-- Josh stops everything. Drops the stick mid-swing.
-- **Josh runs straight to Marcus.** Not Uncle Jerry. His dad.
-- "DADDY!"
-- Marcus kneels down. Josh hugs him. Asks about the waterfall.
-- Marcus: "Maybe I'll take you there sometime." / Josh: "Really?" / "Really."
-- Emily watches from the tent. Hand over her mouth.
-- Jeremiah picks up the dropped stick. Smiles. Sets it down. Walks away. Gives them their moment.
+- Josh sees him. Stops playing. Looks at Marcus.
+- Josh doesn't run to him. He takes a few steps toward Marcus. Then stops. Looks back at Jeremiah. Unsure.
+
+**Josh:** *(small voice)* "...Hi daddy."
+
+**Marcus:** *(dismounting, stiff)* "Hey."
+
+*Awkward silence. Josh is standing between Jeremiah and Marcus. Literally caught in the middle.*
+
+**Josh:** "Did you find the new place?"
+
+**Marcus:** "Yeah. It's fine."
+
+**Josh:** "Was there water?"
+
+**Marcus:** "Yeah."
+
+*That's it. Marcus walks past Josh toward the tent. Josh watches him go. His face falls.*
+
+*Emily sees it from the tent entrance. Jeremiah sees it too.*
+
+**Jeremiah:** *(kneeling to Josh)* "Hey. Your dad's just tired from the ride. Come on, let's finish our game."
+
+**Josh:** "...Okay."
+
+*He goes back to Jeremiah. Picks up the stick. But the energy is gone.*
+
+*Marcus is in the tent. He heard the whole thing. He's sitting on the bed with his head in his hands. He knows. He just can't make himself do it.*
 
 ### Mission Complete
 
 ---
 
 ## Key Story Points
-- Josh choosing Marcus over Jeremiah — the biggest moment in the family arc
-- Jeremiah isn't jealous — he's relieved. This is what he worked toward.
-- Emily keeps it together — strong, not crying
-- Marcus's family arc: major shift confirmed
+- Josh takes a few steps toward Marcus but doesn't run to him — still unsure
+- Marcus can't bring himself to engage — walks past Josh
+- The crack is there but Marcus keeps pulling back
+- Emily and Jeremiah both see it — frustration growing
+- Marcus KNOWS he's failing — sits with his head in his hands
+- The relationship is still broken in Chapter 3 — the real shift comes in Chapter 4
+- No sword fight, no fishing trip, no major breakthrough yet
